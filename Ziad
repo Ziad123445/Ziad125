@@ -1,0 +1,72 @@
+Welcome to Termux
+
+Docs:       https://doc.termux.com
+Community:  https://community.termux.com
+
+Working with packages:
+ - Search:  pkg search <query>
+ - Install: pkg install <package>
+ - Upgrade: pkg upgrade
+
+Report issues at https://bugs.termux.com
+~ $ mkdir /storage/shared/my_website
+mkdir: cannot create directory ‘/storage/shared/my_website’: No such file or directory
+~ $ ^C
+~ $ mkdir ziad_website
+~ $ cd ziad_website
+~/ziad_website $ nano index.html
+~/ziad_website $ php -S localhost:8000
+[Sat Mar  8 01:22:03 2025] PHP 8.4.2 Development Server (http://localhost:8000) started
+[Sat Mar  8 01:22:47 2025] 127.0.0.1:52808 Accepted
+[Sat Mar  8 01:22:47 2025] 127.0.0.1:52808 [200]: GET /
+[Sat Mar  8 01:22:47 2025] 127.0.0.1:52808 Closing
+[Sat Mar  8 01:22:54 2025] 127.0.0.1:52812 Accepted
+[Sat Mar  8 01:22:54 2025] 127.0.0.1:52812 [200]: GET /
+[Sat Mar  8 01:22:54 2025] 127.0.0.1:52812 Closing
+[Sat Mar  8 01:34:08 2025] 127.0.0.1:52834 Accepted
+[Sat Mar  8 01:34:08 2025] 127.0.0.1:52834 [200]: GET /
+[Sat Mar  8 01:34:08 2025] 127.0.0.1:52834 Closing
+[Sat Mar  8 01:42:04 2025] 127.0.0.1:52842 Accepted
+[Sat Mar  8 01:42:04 2025] 127.0.0.1:52842 [200]: GET /
+[Sat Mar  8 01:42:04 2025] 127.0.0.1:52842 Closing
+
+
+
+
+
+Welcome to Termux
+
+Docs:       https://doc.termux.com
+Community:  https://community.termux.com
+
+Working with packages:
+ - Search:  pkg search <query>
+ - Install: pkg install <package>
+ - Upgrade: pkg upgrade
+
+Report issues at https://bugs.termux.com
+~ $ mkdir /storage/shared/my_website
+mkdir: cannot create directory ‘/storage/shared/my_website’: No such file or directory
+~ $ ^C
+~ $ mkdir ziad_website
+~ $ cd ziad_website
+~/ziad_website $ nano index.html
+~/ziad_website $ php -S localhost:8000
+[Sat Mar  8 01:22:03 2025] PHP 8.4.2 Development Server (http://localhost:8000) started
+[Sat Mar  8 01:22:47 2025] 127.0.0.1:52808 Accepted
+[Sat Mar  8 01:22:47 2025] 127.0.0.1:52808 [200]: GET /
+[Sat Mar  8 01:22:47 2025] 127.0.0.1:52808 Closing
+[Sat Mar  8 01:22:54 2025] 127.0.0.1:52812 Accepted
+[Sat Mar  8 01:22:54 2025] 127.0.0.1:52812 [200]: GET /
+[Sat Mar  8 01:22:54 2025] 127.0.0.1:52812 Closing
+[Sat Mar  8 01:34:08 2025] 127.0.0.1:52834 Accepted
+[Sat Mar  8 01:34:08 2025] 127.0.0.1:52834 [200]: GET /
+[Sat Mar  8 01:34:08 2025] 127.0.0.1:52834 Closing
+[Sat Mar  8 01:42:04 2025] 127.0.0.1:52842 Accepted
+[Sat Mar  8 01:42:04 2025] 127.0.0.1:52842 [200]: GET /
+[Sat Mar  8 01:42:04 2025] 127.0.0.1:52842 Closing
+
+
+
+
+
